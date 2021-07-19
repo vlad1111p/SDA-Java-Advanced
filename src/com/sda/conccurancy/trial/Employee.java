@@ -1,4 +1,4 @@
-package com.sda.conccurancy;
+package com.sda.conccurancy.trial;
 
 import java.time.Instant;
 import java.util.concurrent.atomic.AtomicLong;
